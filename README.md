@@ -186,6 +186,6 @@ Open the browser and access:
 arduino
 Copy code
 http://localhost:7860
-🔗 Made by / Sponsored by
-Made/ Sponsored by MarketMindAI
-(https://marketmindai.com)
+Sponsered By
+[![MarketMindAI](https://marketmindai.com/logo.png)](https://marketmindai.com)
+

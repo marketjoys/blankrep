@@ -187,20 +187,5 @@ arduino
 Copy code
 http://localhost:7860
 🔗 Made by / Sponsored by
-Made by MarketMindAI
-or
-Sponsored by MarketMindAI
-
-You can optionally add a badge/logo:
-
-markdown
-Copy code
-[![MarketMindAI](https://marketmindai.com/logo.png)](https://marketmindai.com)
-or
-Sponsored by MarketMindAI
-
-You can optionally add a badge/logo:
-
-markdown
-Copy code
-[![MarketMindAI](https://marketmindai.com/logo.png)](https://marketmindai.com)
+Made/ Sponsored by MarketMindAI
+(https://marketmindai.com)
